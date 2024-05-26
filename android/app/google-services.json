@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514986799268",
+    "project_id": "hlxx-5c16f",
+    "storage_bucket": "hlxx-5c16f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514986799268:android:c4613180a934fa1865b631",
+        "android_client_info": {
+          "package_name": "com.example.hlx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTnRE-Aa_YngVJPvZcmd0SBLdzqahBfqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
